@@ -43,7 +43,7 @@ Devery applications were built to demonstrate the flexibility of our protocol an
 
 ## Third Party Applications
 
-If you're interested in utilising our protocol whilst working with us directly, you can contact us [here](https://devery.io/contact). We welcome all contributors that wish to improve the ecosystem around decentralised applications. Our aim is utilising the Devery Protocol and actively looking to support projects that aim to build decentralised verification applications.
+If you're interested in utilising our protocol whilst working with us directly, you can contact us [here](https://devery.io/contact). We welcome all contributors that wish to improve the ecosystem around decentralised applications. Our aim is utilising the Devery Protocol and we are actively looking to support projects that aim to build decentralised verification applications on our technology.
 
 
 ## Whitepaper
